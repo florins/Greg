@@ -1,0 +1,22 @@
+Greg - Modelling IDE for Embedded Platforms
+Version 0.01
+
+Greg is a development environment for the non-programmers. It targets mostly the UI designers, ergonimists a.s.o. 
+that want to fastly see how their application would look and run.
+It is especially thought to target embedded devices like smart phones, tablets, car infotainment systems,
+airplanes, trains. There is a plethora of devices needing user interfaces and they need them now, 
+not in 2 months for a smart phone app and for sure not in 2-3 years for a car infotainment system. 
+
+What will Greg have?
+
+It will be a tool having a simple and easy to use diagram designer, like Visio.
+It will also be an extremely easy to use HTML5 composer to draw nice screens.
+And it will link these 2 together and show the user live how her application will look at run time.
+And that because that is the application, no extra steps needed.
+Ok, if you want extra sugar on the cake like connecting all this to a complicated data system we've never heard of
+you'll have to go to a programmer, there's no magic solution for that.
+But for planning and simply running your application this tool will do.
+Ok, you can also get a cup of coffee while you do it, we usually do that.
+
+
+
